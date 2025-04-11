@@ -1,0 +1,35 @@
+.movieCast,
+.movieReviews {
+  margin-top: 20px;
+}
+
+.movieCast h2,
+.movieReviews h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.movieCast ul,
+.movieReviews ul {
+  list-style: none;
+  padding: 0;
+}
+
+.movieCast li,
+.movieReviews li {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.movieCast li strong,
+.movieReviews li strong {
+  font-size: 20px;
+  color: #ced2d3;
+}
+
+.movieReviews li p {
+  font-size: 16px;
+  color: #0f0303;
+  line-height: 1.6;
+}
